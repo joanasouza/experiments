@@ -8,7 +8,7 @@ Papel empata com Papel e ganha de Pedra
 
 empata ou ganha (False ou True)
 """
-def jokenpo_play(player_one, player_two):
+def play(player_one, player_two):
     if player_one == 'Pedra' and player_two == 'Tesoura':
         return 'jogador1'
     elif player_one == 'Tesoura' and player_two == 'Papel':
