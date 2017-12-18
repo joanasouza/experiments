@@ -10,10 +10,10 @@ Build a basic calculator using the postfix notation practicing TDD concepts
 
 
 ## How I'm running the tests
-
+```
 export PYTHONPATH=.
 pytest -s -v
-
+```
 ## TODO
 
-[] Add more tests to complex_sum function 
+- [] Add more tests to complex_sum function 
