@@ -16,4 +16,4 @@ pytest -s -v
 ```
 ## TODO
 
-- [] Add more tests to complex_sum function 
+- [ ] Add more tests to complex_sum function 
